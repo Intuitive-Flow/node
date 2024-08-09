@@ -368,8 +368,6 @@ For information about the governance of the Node.js project, see
   **Minwoo Jung** <<nodecorelab@gmail.com>> (he/him)
 * [KhafraDev](https://github.com/KhafraDev) -
   **Matthew Aitken** <<maitken033380023@gmail.com>> (he/him)
-* [kuriyosh](https://github.com/kuriyosh) -
-  **Yoshiki Kurihara** <<yosyos0306@gmail.com>> (he/him)
 * [kvakil](https://github.com/kvakil) -
   **Keyhan Vakil** <<kvakil@sylph.kvakil.me>>
 * [legendecas](https://github.com/legendecas) -
@@ -572,6 +570,8 @@ For information about the governance of the Node.js project, see
   **Kyle Farnung** <<kfarnung@microsoft.com>> (he/him)
 * [kunalspathak](https://github.com/kunalspathak) -
   **Kunal Pathak** <<kunal.pathak@microsoft.com>>
+* [kuriyosh](https://github.com/kuriyosh) -
+  **Yoshiki Kurihara** <<yosyos0306@gmail.com>> (he/him)
 * [lance](https://github.com/lance) -
   **Lance Ball** <<lball@redhat.com>> (he/him)
 * [Leko](https://github.com/Leko) -
@@ -738,6 +738,8 @@ maintaining the Node.js project.
   **Gireesh Punathil** <<gpunathi@in.ibm.com>> (he/him)
 * [iam-frankqiu](https://github.com/iam-frankqiu) -
   **Frank Qiu** <<iam.frankqiu@gmail.com>> (he/him)
+* [KevinEady](https://github.com/KevinEady) -
+  **Kevin Eady** <<kevin.c.eady@gmail.com>> (he/him)
 * [kvakil](https://github.com/kvakil) -
   **Keyhan Vakil** <<kvakil@sylph.kvakil.me>>
 * [marsonya](https://github.com/marsonya) -
@@ -849,18 +851,18 @@ prioritize security releases. Security release stewards manage security
 releases on a rotation basis as outlined in the
 [security release process](./doc/contributing/security-release-process.md).
 
-* Datadog
+* [Datadog](https://www.datadoghq.com/)
   * [bengl](https://github.com/bengl) -
     **Bryan English** <<bryan@bryanenglish.com>> (he/him)
-* NodeSource
+* [NodeSource](https://nodesource.com/)
   * [juanarbol](https://github.com/juanarbol) -
     **Juan José Arboleda** <<soyjuanarbol@gmail.com>> (he/him)
   * [RafaelGSS](https://github.com/RafaelGSS) -
     **Rafael Gonzaga** <<rafael.nunu@hotmail.com>> (he/him)
-* Platformatic
+* [Platformatic](https://platformatic.dev/)
   * [mcollina](https://github.com/mcollina) -
     **Matteo Collina** <<matteo.collina@gmail.com>> (he/him)
-* Red Hat and IBM
+* [Red Hat](https://redhat.com) / [IBM](https://ibm.com)
   * [joesepi](https://github.com/joesepi) -
     **Joe Sepi** <<joesepi@ibm.com>> (he/him)
   * [mhdawson](https://github.com/mhdawson) -
